@@ -1,14 +1,12 @@
 # World_Weather_Analysis
 
-you'll practice your analysis, visualization, and statistical skills by retrieving and analyzing weather data for a hypothetical travel company, PlanMyTrip.
-
-Here's an outline of your project plan:
+Here's an outline of the project plan:
 
 Task: Collect and analyze weather data across cities worldwide.
 Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
 Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 
-Your analysis of the data will be split into three main parts, or stages.
+The analysis of the data will be split into three main parts, or stages.
 
 Collect the Data
 
